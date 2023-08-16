@@ -1,0 +1,72 @@
+D:\DS\DB Project\DB Project\bin\Debug\DB Project.exe.config
+D:\DS\DB Project\DB Project\bin\Debug\DB Project.exe
+D:\DS\DB Project\DB Project\bin\Debug\DB Project.pdb
+D:\DS\DB Project\DB Project\bin\Debug\Guna.UI.dll
+D:\DS\DB Project\DB Project\obj\Debug\DB Project.csproj.AssemblyReference.cache
+D:\DS\DB Project\DB Project\obj\Debug\DB Project.csproj.SuggestedBindingRedirects.cache
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.Properties.Resources.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB Project.csproj.GenerateResource.cache
+D:\DS\DB Project\DB Project\obj\Debug\DB Project.csproj.CoreCompileInputs.cache
+D:\DS\DB Project\DB Project\obj\Debug\DB Project.csproj.CopyComplete
+D:\DS\DB Project\DB Project\obj\Debug\DB Project.exe
+D:\DS\DB Project\DB Project\obj\Debug\DB Project.pdb
+D:\DS\DB Project\DB Project\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\DS\DB Project\DB Project\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\DS\DB Project\DB Project\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.Admin.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.AdminAddingStudent.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.firstpage.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.AdminLogin.resources
+D:\DS\DB Project\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\DS\DB Project\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.adminAddingTeacher.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.progressform.resources
+D:\DS\DB Project\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\DS\DB Project\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\DS\DB Project\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\DS\DB Project\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.adminUpdatingStudent.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.AdminUpdatingTeacher.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.teacherportal.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.studentportal.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.ClassesCreation.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.ScheduleClass.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.AdminaddingStudentToClass.resources
+D:\DS\DB Project\DB Project\obj\Debug\DB_Project.studentworking.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\DB Project.exe.config
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\DB Project.exe
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\DB Project.pdb
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Guna.UI.dll
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB Project.csproj.AssemblyReference.cache
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.Admin.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.AdminAddingStudent.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.AdminaddingStudentToClass.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.adminAddingTeacher.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.adminUpdatingStudent.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.AdminUpdatingTeacher.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.ClassesCreation.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.firstpage.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.AdminLogin.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.progressform.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.Properties.Resources.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.ScheduleClass.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.studentportal.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.studentworking.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.teacherportal.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB Project.csproj.GenerateResource.cache
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB Project.csproj.CoreCompileInputs.cache
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB Project.csproj.CopyComplete
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB Project.exe
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB Project.pdb
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.teacherworking.resources
+C:\Users\hassa\OneDrive\Desktop\New folder (3)\DB Project\obj\Debug\DB_Project.teacherMarkingAttendance.resources
